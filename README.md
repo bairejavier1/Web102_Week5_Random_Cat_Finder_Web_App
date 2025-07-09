@@ -74,7 +74,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://cdn.loom.com/sessions/thumbnails/a033b2f969274bac965567858e321244-fb00cd5ae4d8fb1d-full-play.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://cdn.loom.com/sessions/thumbnails/a033b2f969274bac965567858e321244-fb00cd5ae4d8fb1d-full-play.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with Loom
